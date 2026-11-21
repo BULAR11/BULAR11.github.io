@@ -1,4 +1,4 @@
-<!DOC TYPE HTML>
+<!DOCTYPE HTML>
 <HTML>
 <head>
 <title> Gym Introduction </title>
